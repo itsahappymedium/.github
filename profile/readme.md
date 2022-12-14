@@ -8,8 +8,4 @@
 
 <br />
 
-<a href="https://itsahappymedium.com" target="_blank" align="center">https://itsahappymedium.com</a>
-
-<br />
-
-<a href="mailto:info@itsahappymedium.com" align="center">info@itsahappymedium.com</a>
+<p align="center"><a href="https://itsahappymedium.com" target="_blank">https://itsahappymedium.com</a> | <a href="mailto:info@itsahappymedium.com">info@itsahappymedium.com</a></p>
