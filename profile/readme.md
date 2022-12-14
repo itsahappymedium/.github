@@ -1,4 +1,4 @@
-<a href="https://itsahappymedium.com" target="_blank"><img src="profile/logo.svg" width="30%" /></a>
+<a href="https://itsahappymedium.com" target="_blank" align="center"><img src="profile/logo.svg" width="30%" /></a>
 
 <br /><br />
 
