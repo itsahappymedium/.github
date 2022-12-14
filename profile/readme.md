@@ -1,5 +1,5 @@
 <div style="margin: 0 auto; padding: 100px 0; text-align: center; width: 500px;">
-  <img src="logo.svg" width="30%" />
+  <img src="profile/logo.svg" width="30%" />
 
   <br /><br />
 
