@@ -1,17 +1,15 @@
-<div style="margin: 0 auto; padding: 100px 0; text-align: center; width: 500px;">
-  <img src="profile/logo.svg" width="30%" />
+<img src="profile/logo.svg" width="30%" align="center" />
 
-  <br /><br />
+<br /><br />
 
-  <p style="font-size: 30px;">Experience is Everything</p>
+<h3 align="center">Experience is Everything</h3>
 
-  <p style="font-size: 15px;">As a digital agency Happy Medium can transform your business with digital-first solutions that put your customers and their experiences first.</p>
+<p>As a digital agency Happy Medium can transform your business with digital-first solutions that put your customers and their experiences first.</p>
 
-  <br /><br />
+<br />
 
-  <a href="https://itsahappymedium.com" target="_blank" style="color: #F36375; font-weight: bold;">https://itsahappymedium.com</a>
+<a href="https://itsahappymedium.com" target="_blank" align="center">https://itsahappymedium.com</a>
 
-  <br />
+<br />
 
-  <a href="mailto:info@itsahappymedium.com" style="color: #F36375; font-weight: bold;">info@itsahappymedium.com</a>
-</div>
+<a href="mailto:info@itsahappymedium.com" align="center">info@itsahappymedium.com</a>
