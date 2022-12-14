@@ -1,7 +1,5 @@
 <p align="center"><a href="https://itsahappymedium.com" target="_blank"><img src="profile/logo.svg" width="30%" /></a></p>
 
-<br /><br />
-
 <h3 align="center">Experience is Everything</h3>
 
 <p align="center">As a digital agency Happy Medium can transform your business with digital-first solutions that put your customers and their experiences first.</p>
