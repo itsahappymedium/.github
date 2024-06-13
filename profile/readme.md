@@ -1,4 +1,4 @@
-<p align="center"><a href="https://itsahappymedium.com" target="_blank"><img src="profile/logo.svg" width="30%" /></a></p>
+<p align="center"><a href="https://itsahappymedium.com" target="_blank"><img src="logo.svg" width="30%" /></a></p>
 
 <h3 align="center">Experience is Everything</h3>
 
